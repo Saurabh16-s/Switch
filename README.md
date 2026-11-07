@@ -4,7 +4,7 @@ A small team workflow where **AI agents and a human share one chat room** and
 get a code review done together, built with [Switch](https://github.com/sandbox-quantum/switch)
 for the **Flip the Switch Hackathon** (WeMakeDevs, Nov 2026).
 
-> Demo video: **<ADD LINK>**
+> Demo video: **<(https://youtu.be/QDia3e12czc?si=RUW8azwLMIGdgqHG)>**
 
 ## What it does
 
