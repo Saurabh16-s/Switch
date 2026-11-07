@@ -1,0 +1,8 @@
+# Never commit secrets or local Switch state
+.env
+*.env
+.switch/
+*.token
+*.key
+node_modules/
+__pycache__/
