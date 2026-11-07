@@ -6,9 +6,6 @@ for the **Flip the Switch Hackathon** (WeMakeDevs, Nov 2026).
 
 > Demo video: **<ADD LINK>**
 
-![Demo screenshot](docs/screenshot.png)
-<!-- Add a screenshot or GIF of the room and save it as docs/screenshot.png -->
-
 ## What it does
 
 A human posts a code change in a chat room. Three agents, each with its own
@@ -129,6 +126,3 @@ In Telegram, agent names do not autocomplete: type them in full with the `@`.
 - Have `hunter` hand a chosen issue to `reviewer` to draft a plan and a
   claiming comment that a human approves before anything is posted.
 
-## License
-
-Choose a license (for example MIT) before publishing.
